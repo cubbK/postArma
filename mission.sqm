@@ -1,0 +1,25 @@
+version=53;
+class EditorData
+{
+	moveGridStep=1;
+	angleGridStep=0.2617994;
+	scaleGridStep=1;
+	autoGroupingDist=10;
+	toggles=1;
+	class Camera
+	{
+		pos[]={20638.773,95.364792,6732.4292};
+		dir[]={0.85032845,-0.50451589,-0.15054701};
+		up[]={0.49685094,0.86334872,-0.087959304};
+		aside[]={-0.17434777,4.9477967e-007,-0.98479146};
+	};
+};
+binarizationWanted=0;
+class AddonsMetaData
+{
+};
+randomSeed=13571981;
+class ScenarioData
+{
+	author="CODEX";
+};
